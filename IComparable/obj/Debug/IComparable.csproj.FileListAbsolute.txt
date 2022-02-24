@@ -1,0 +1,7 @@
+C:\Users\Data53454\Desktop\C#\IComparable\IComparable\bin\Debug\IComparable.exe
+C:\Users\Data53454\Desktop\C#\IComparable\IComparable\bin\Debug\IComparable.pdb
+C:\Users\Data53454\Desktop\C#\IComparable\IComparable\obj\Debug\IComparable.csproj.AssemblyReference.cache
+C:\Users\Data53454\Desktop\C#\IComparable\IComparable\obj\Debug\IComparable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Data53454\Desktop\C#\IComparable\IComparable\obj\Debug\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Data53454\Desktop\C#\IComparable\IComparable\obj\Debug\IComparable.exe
+C:\Users\Data53454\Desktop\C#\IComparable\IComparable\obj\Debug\IComparable.pdb
